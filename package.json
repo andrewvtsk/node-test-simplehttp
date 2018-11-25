@@ -1,0 +1,19 @@
+{
+    "name": "node-test-simplehttp",
+    "version": "1.0.0",
+    "description": "This example is so cool.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [
+        "example",
+        "heroku"
+    ],
+    "author": "Andrii Vatsiuk",
+    "license": "MIT",
+    "dependencies": {},
+    "engines": {
+        "node": "10.x"
+    }
+}
